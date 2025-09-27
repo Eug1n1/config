@@ -1,0 +1,16 @@
+[general]
+import = [
+    # "~/.config/alacritty/gruvbox_material_hard_dark.toml",
+    "~/.config/alacritty/vscode.toml",
+    # "~/.config/alacritty/vague.toml"
+]
+
+[window.padding]
+x = 5
+y = 5
+
+[font]
+size = 15.0
+
+[font.normal]
+family = "IosevkaTermNerdFont"
